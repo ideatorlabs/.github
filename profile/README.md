@@ -17,7 +17,7 @@
 | **Build Retainer** | Document AI, workflow automation, KPI dashboards, AI copilots — shipped monthly, measured against baseline. |
 | **Advisory** | Quarterly business reviews, accountable to the cumulative value number — not to slides. |
 
-**The Ideator Promise:** if the diagnostic doesn't surface opportunities meaningful enough to act on, we say so plainly — and the roadmap workshop is on us.
+<img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/promise.png" width="100%" alt="The Ideator Promise — the numbers have to defend themselves.">
 
 → Try the **[live leak estimator](https://ideatorlabs.github.io)** — six one-tap signals, your estimated annual leak, entirely on-device.
 
