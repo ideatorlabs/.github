@@ -1,4 +1,4 @@
-<img src="../assets/banner.svg" alt="Ideator Labs — We find the margin. Then we build the machine." width="100%">
+<img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/banner.png" alt="Ideator Labs — We find the margin. Then we build the machine." width="100%">
 
 <p align="center">
   <a href="https://ideatorlabs.github.io"><img src="https://img.shields.io/badge/site-ideatorlabs.github.io-E7C878?style=flat-square&labelColor=050506" alt="Website"></a>
