@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://ideatorlabs.github.io"><img src="https://img.shields.io/badge/site-ideatorlabs.github.io-E7C878?style=flat-square&labelColor=050506" alt="Website"></a>
-  <img src="https://img.shields.io/badge/status-accepting_diagnostic_engagements-E7C878?style=flat-square&labelColor=050506" alt="Status">
+  <img src="https://img.shields.io/badge/status-early--stage_studio-E7C878?style=flat-square&labelColor=050506" alt="Status">
   <img src="https://img.shields.io/badge/base-India_·_remote_worldwide-9BA0AC?style=flat-square&labelColor=050506" alt="Location">
 </p>
 
-**Ideator Labs** is an AI advisory practice and venture lab. We apply the scientific method to business operations — hypothesis, instrumentation, measurement, verdict — then engineer the AI and automation systems that capture what we find. Fixed fees, senior-only delivery, weeks not quarters.
+**Ideator Labs** is an early-stage AI studio — an advisory approach and a set of venture experiments. The idea: apply the scientific method to business operations (hypothesis → instrumentation → measurement → verdict), then engineer the AI and automation that capture what the measurements expose. Built in the open, one project at a time.
 
-## 🔬 Advisory — the practice
+## 🔬 Advisory — the approach
 
 | | |
 |---|---|
