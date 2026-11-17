@@ -67,6 +67,15 @@ Advisory is the approach. The Lab is the venture side — independent products b
 | [**YAMCP**](https://github.com/ideatorlabs/cortex/tree/main/yamcp) | Multi-transport Model Context Protocol tool server — HTTP / WS / CLI | v0.1 testing |
 | **Brain** | Context-aware AI memory — project classification, privacy tiers, retrieval | Early research · private |
 
+| Open-source packages | | Docs |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/ideatorlabs/greenline/main/docs/assets/brand/icon-512.png" width="20" height="20" alt=""> [**Greenline**](https://github.com/ideatorlabs/greenline) | Self-hosted, multi-tenant engine for the WhatsApp Business Cloud API: 24-hour window with template fallback, signed webhooks, opt-out, cost meter | [docs](https://ideatorlabs.github.io/greenline/) |
+| <img src="https://raw.githubusercontent.com/ideatorlabs/tillsync/main/docs/assets/brand/icon-512.png" width="20" height="20" alt=""> [**TillSync**](https://github.com/ideatorlabs/tillsync) | Pulls customers and sales from POS systems, JSON APIs, Google Sheets and CSV/Excel into one clean shape, with explainable column mapping | [docs](https://ideatorlabs.github.io/tillsync/) |
+| <img src="https://raw.githubusercontent.com/ideatorlabs/nudgewright/main/docs/assets/brand/icon-512.png" width="20" height="20" alt=""> [**Nudgewright**](https://github.com/ideatorlabs/nudgewright) | Writes one short, personal customer message from the facts you really have, within fixed guardrails, and says why | [docs](https://ideatorlabs.github.io/nudgewright/) |
+| <img src="https://raw.githubusercontent.com/ideatorlabs/faultbell/main/docs/assets/brand/icon-512.png" width="20" height="20" alt=""> [**Faultbell**](https://github.com/ideatorlabs/faultbell) | Exception alerts for Python services and cron jobs: Discord, Slack, Teams, Google Chat, Telegram, PagerDuty, email or any webhook | [docs](https://ideatorlabs.github.io/faultbell/) |
+
+Python 3.10+, Apache-2.0, tested on every push.
+
 *Everything we recommend has survived our own lab first.*
 
 <img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/hdr-contact.png" width="100%" alt="Contact — start with a capacity review">
