@@ -1,87 +1,42 @@
-<img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/banner.png" width="100%" alt="Ideator Labs — We find the margin. Then we build the machine.">
+<a href="https://ideatorlabs.github.io"><img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/banner.svg" width="100%" alt="Ideator Labs: a studio at the intersection of AI and data advisory, innovation and business intelligence."></a>
 
 <p align="center">
-  <a href="https://ideatorlabs.github.io"><img src="https://img.shields.io/badge/site-ideatorlabs.github.io-E7C878?style=flat-square&labelColor=050506" alt="Website"></a>
-  <img src="https://img.shields.io/badge/status-early--stage_studio-E7C878?style=flat-square&labelColor=050506" alt="Status">
-  <img src="https://img.shields.io/badge/base-India_·_remote_worldwide-9BA0AC?style=flat-square&labelColor=050506" alt="Location">
+  <a href="https://ideatorlabs.github.io"><img src="https://img.shields.io/badge/site-ideatorlabs.github.io-3B6FE0?style=flat-square&labelColor=0f172a" alt="Website"></a>
+  <a href="https://ideatorlabs.github.io/open-source/"><img src="https://img.shields.io/badge/open_source-CORTEX_·_5_Python_packages-22B8CF?style=flat-square&labelColor=0f172a" alt="Open source"></a>
+  <a href="mailto:ideatorlabs.ai@gmail.com"><img src="https://img.shields.io/badge/contact-ideatorlabs.ai@gmail.com-3B6FE0?style=flat-square&labelColor=0f172a" alt="Contact"></a>
 </p>
 
-**Ideator Labs** is an early-stage AI studio — an advisory approach and a set of venture experiments. The idea: apply the scientific method to business operations (hypothesis → instrumentation → measurement → verdict), then engineer the AI and automation that capture what the measurements expose. Fixed-scope, senior-only, built in the open — one project at a time.
+**Ideator Labs** is a studio at the intersection of AI and data advisory, innovation and business intelligence. We help businesses see what changed in their numbers, why it changed and what to do next, and we turn that work into software: our own products, and open-source code anyone can use.
 
-> **We find the margin. Then we build the machine.**
+## Products
 
-<br>
+**[FurniTrail](https://ideatorlabs.github.io/products/furnitrail/)** · *From browsing to belonging.*<br>
+For furniture showrooms. Turns visitors into buyers: each buyer gets one page in the showroom's name with the pieces they liked, a proposal they can accept, then their order and delivery. Every morning the team knows who needs them.
 
-<img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/hdr-findings.png" width="100%" alt="Field Findings — what the data keeps showing">
+**[PollenRev](https://ideatorlabs.github.io/products/pollenrev/)** · *Sales software.*<br>
+Finds leads, writes outreach and proposals, and keeps every deal in one pipeline.
 
-The same patterns show up in nearly every operations-heavy business — professional services, logistics & distribution, manufacturing, multi-site healthcare. Each is measurable, and each is money.
+## Open source
 
-| Signal | Finding |
-|---|---|
-| **Profitability** | **15–30%** of customers are typically unprofitable — invisible until margin is measured per customer / SKU / job |
-| **Capacity** | **20–40%** of admin payroll goes to manual work AI can now do — documents, rekeying, status-chasing, reconciliation |
-| **Pricing** | one point of unmanaged pricing moves profit **8–12%** — the highest-ROI fix that exists |
-| **Service** | **30–60%** cut in cost-per-contact with AI deflection, drafting & triage — CSAT held or improved |
-| **Cash** | **$500k–$5M** routinely freed from the cash-conversion cycle — billing lag, collections, over-ordered inventory |
-| **Systems** | only **~20%** of the ERP/CRM most companies pay for is actually used — while the workarounds cost more |
-
-→ Try the **[live profit-leak estimator](https://ideatorlabs.github.io)** — six one-tap signals, your own estimate, entirely on-device.
-
-<img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/hdr-method.png" width="100%" alt="The Method — VALUE OS">
-
-Every engagement runs one disciplined protocol. No opinions without instruments; no recommendations without a number attached.
-
-| Stage | | What happens |
+| Project | What it does | |
 |---|---|---|
-| **01 · Baseline** | days 1–5 | Observe the system — interviews, systems inventory, data extraction |
-| **02 · Diagnose** | days 5–12 | Form & test hypotheses on a MECE issue tree — confirmed / refuted / inconclusive |
-| **03 · Quantify** | days 10–15 | Price every finding — margin waterfalls, time-and-volume studies, the value map |
-| **04 · Design** | days 12–21 | Sequence the fixes — impact-vs-effort, 12-month roadmap, business case per initiative |
-| **05 · Drive** | ongoing | Build & measure realization against the baseline — reported as cumulative value |
+| [**CORTEX**](https://github.com/ideatorlabs/cortex) | Framework for AI agents and the tools they call. Includes [YAMCP](https://github.com/ideatorlabs/cortex/tree/main/yamcp), a Model Context Protocol (MCP) tool server over HTTP, WebSocket or the command line. | [repo](https://github.com/ideatorlabs/cortex) |
+| [**Greenline**](https://github.com/ideatorlabs/greenline) | WhatsApp Business Cloud API engine for many businesses from your own server: 24-hour window with template fallback, signed webhooks, STOP/START, cost per message. | [docs](https://ideatorlabs.github.io/greenline/) |
+| [**TillSync**](https://github.com/ideatorlabs/tillsync) | Pulls customers and bills from POS systems, JSON APIs, Google Sheets and CSV or Excel into one clean shape, with explained column mapping. | [docs](https://ideatorlabs.github.io/tillsync/) |
+| [**Nudgewright**](https://github.com/ideatorlabs/nudgewright) | Writes one short, personal customer message from the facts you really have, within fixed guardrails, and says why. | [docs](https://ideatorlabs.github.io/nudgewright/) |
+| [**Faultbell**](https://github.com/ideatorlabs/faultbell) | One clean alert per problem when a Python service or cron job fails, in Discord, Slack, Teams, Google Chat, Telegram, PagerDuty or email, plus a server watch. | [docs](https://ideatorlabs.github.io/faultbell/) |
+| [**Leadbell**](https://github.com/ideatorlabs/leadbell) | Website lead capture with stored consent, a spam trap and rate limiting, and one card per sign-up, lead or payment in Discord, Slack or any webhook. | [repo](https://github.com/ideatorlabs/leadbell) |
 
-<img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/hdr-services.png" width="100%" alt="Services — four ways to engage">
+The Python packages run on Python 3.10+, are Apache-2.0 licensed and are tested on every change. More on the [open-source page](https://ideatorlabs.github.io/open-source/).
 
-Every relationship starts small and fixed-fee. Each step is earned by finding money in the one before it.
+## How we work
 
-| | Engagement | Shape |
-|---|---|---|
-| **01 · Diagnose** | Diagnostic Sprint | fixed fee · 2–4 wks — a priced opportunity map you own either way |
-| **02 · Design** | Roadmap & Business Case | fixed fee · 3–8 wks — every initiative costed with its payback period |
-| **03 · Deliver** | Build Retainer | monthly · 3–12 mo — document AI, automation, dashboards, copilots; measured vs baseline |
-| **04 · Drive** | Advisory | monthly · ongoing — quarterly reviews, accountable to the cumulative value number |
+- **Advisory.** We look at how a business runs and where AI and data can save time or money, and we say plainly when they can't.
+- **Business intelligence.** Reporting that answers what changed, why, and what to do next.
+- **Products.** What works in practice becomes software we build and run ourselves.
 
-<img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/promise.png" width="100%" alt="The Ideator Promise — the numbers have to defend themselves.">
+## Contact
 
-<img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/hdr-lab.png" width="100%" alt="The Lab — ventures & research">
+**[ideatorlabs.ai@gmail.com](mailto:ideatorlabs.ai@gmail.com)** · [+91 73269 70981](tel:+917326970981) · [ideatorlabs.github.io](https://ideatorlabs.github.io)
 
-Advisory is the approach. The Lab is the venture side — independent products being built with the same engineering, plus the open research beneath them.
-
-| Venture | What it is | Status |
-|---|---|---|
-| **LeadHive** | AI Marketplace 2.0 — a Growth OS for service businesses. Signals → intent graph → agents → outcomes. | Active build · private |
-| **Reflex** | Autonomous data engine — declare the outcome; pipelines plan, run, heal, and learn. | Early build |
-
-| Open research | | Status |
-|---|---|---|
-| [**CORTEX**](https://github.com/ideatorlabs/cortex) | Composable orchestration for LLM agents, tools & agent-to-agent exchange | Open research |
-| [**YAMCP**](https://github.com/ideatorlabs/cortex/tree/main/yamcp) | Multi-transport Model Context Protocol tool server — HTTP / WS / CLI | v0.1 testing |
-| **Brain** | Context-aware AI memory — project classification, privacy tiers, retrieval | Early research · private |
-
-| Open-source packages | | Docs |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/ideatorlabs/greenline/main/docs/assets/brand/icon-512.png" width="20" height="20" alt=""> [**Greenline**](https://github.com/ideatorlabs/greenline) | Self-hosted, multi-tenant engine for the WhatsApp Business Cloud API: 24-hour window with template fallback, signed webhooks, opt-out, cost meter | [docs](https://ideatorlabs.github.io/greenline/) |
-| <img src="https://raw.githubusercontent.com/ideatorlabs/tillsync/main/docs/assets/brand/icon-512.png" width="20" height="20" alt=""> [**TillSync**](https://github.com/ideatorlabs/tillsync) | Pulls customers and sales from POS systems, JSON APIs, Google Sheets and CSV/Excel into one clean shape, with explainable column mapping | [docs](https://ideatorlabs.github.io/tillsync/) |
-| <img src="https://raw.githubusercontent.com/ideatorlabs/nudgewright/main/docs/assets/brand/icon-512.png" width="20" height="20" alt=""> [**Nudgewright**](https://github.com/ideatorlabs/nudgewright) | Writes one short, personal customer message from the facts you really have, within fixed guardrails, and says why | [docs](https://ideatorlabs.github.io/nudgewright/) |
-| <img src="https://raw.githubusercontent.com/ideatorlabs/faultbell/main/docs/assets/brand/icon-512.png" width="20" height="20" alt=""> [**Faultbell**](https://github.com/ideatorlabs/faultbell) | Exception alerts for Python services and cron jobs: Discord, Slack, Teams, Google Chat, Telegram, PagerDuty, email or any webhook | [docs](https://ideatorlabs.github.io/faultbell/) |
-
-Python 3.10+, Apache-2.0, tested on every push.
-
-*Everything we recommend has survived our own lab first.*
-
-<img src="https://raw.githubusercontent.com/ideatorlabs/.github/main/assets/hdr-contact.png" width="100%" alt="Contact — start with a capacity review">
-
-Bring one broken process or one suspicious number. In 25 minutes we'll tell you whether there's a figure worth finding — and if there isn't, we'll say so.
-
-**hello@ideatorlabs.dev** · [ideatorlabs.github.io](https://ideatorlabs.github.io)
-
-<p align="center"><sub>MEASURE → PROVE → BUILD → COMPOUND · © 2026 Ideator Labs</sub></p>
+<p align="center"><sub>© 2026 Ideator Labs</sub></p>
